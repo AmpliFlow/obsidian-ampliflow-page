@@ -35,6 +35,11 @@ AmpliFlow Publisher is an Obsidian plugin that allows you to publish your notes 
 
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
 
+## Releasing
+
+Done via release.yml action. I will forget how so here is link:
+https://docs.obsidian.md/Plugins/Releasing/Release+your+plugin+with+GitHub+Actions
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
