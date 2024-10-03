@@ -28,6 +28,7 @@ AmpliFlow Publisher is an Obsidian plugin that allows you to publish your notes 
 
 ### Prerequisites
 
+- AmpliFlow paid account
 - Node.js
 - Obsidian
 
