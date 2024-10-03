@@ -1,0 +1,8 @@
+{
+  "id": "obsidian-ampliflow-page",
+  "name": "AmpliFlow Page Publisher",
+  "version": "1.0.0",
+  "description": "This is a plugin that lets you publish pages to AmpliFlow (https://www.ampliflow.se)",
+  "author": "Patrik Björklund",
+  "isDesktopOnly": false
+}
