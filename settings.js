@@ -14,7 +14,6 @@ var AmpliFlowSettingTab = /** @class */ (function (_super) {
         var _this = this;
         var containerEl = this.containerEl;
         containerEl.empty();
-        containerEl.createEl('h2', { text: 'AmpliFlow Publisher Settings' });
         new obsidian.Setting(containerEl)
             .setName('Tenant')
             .setDesc('Your AmpliFlow tenant name')

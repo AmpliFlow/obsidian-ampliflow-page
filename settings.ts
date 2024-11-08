@@ -26,8 +26,6 @@ export default class AmpliFlowSettingTab extends PluginSettingTab {
 
         containerEl.empty();
 
-        containerEl.createEl('h2', { text: 'AmpliFlow Publisher Settings' });
-
         new Setting(containerEl)
             .setName('Tenant')
             .setDesc('Your AmpliFlow tenant name')

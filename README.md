@@ -1,6 +1,6 @@
 # AmpliFlow Publisher
 
-AmpliFlow Publisher is an Obsidian plugin that allows you to publish your notes directly to AmpliFlow as markdown pages.
+[AmpliFlow](https://www.ampliflow.se) Page Publisher is an Obsidian plugin that allows you to publish your notes directly to AmpliFlow as markdown pages.
 
 ## Features
 

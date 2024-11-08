@@ -41,7 +41,7 @@ export default class AmpliFlowPublisher extends Plugin {
 
     this.addCommand({
       id: 'publish-note',
-      name: 'Publish Note to AmpliFlow',
+      name: 'Publish note to AmpliFlow',
       editorCallback: (editor: Editor) => this.publishNoteToAmpliFlow(editor)
     });
   }
